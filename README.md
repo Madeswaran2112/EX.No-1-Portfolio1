@@ -322,7 +322,11 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
+<img width="1891" height="977" alt="image" src="https://github.com/user-attachments/assets/ae4d04f3-ef78-4f32-a116-631ddea201ae" />
 
+<img width="1890" height="978" alt="image" src="https://github.com/user-attachments/assets/83abb43c-9dd9-4180-a177-6c3c15d92de3" />
+
+<img width="1892" height="995" alt="image" src="https://github.com/user-attachments/assets/2ea76634-fbc9-4611-9679-0c73e165c1c4" />
 
 
 ## RESULT
